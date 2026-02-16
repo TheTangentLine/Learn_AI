@@ -21,7 +21,6 @@ Design the architecture for a "Personal Knowledge Brain."
 4. **The App (Week 4):** Streamlit UI.
 
 **The Workflow:**
-
 User asks -> Streamlit -> Search ChromaDB (RAG) -> Send Context + Query to Ollama (Fine-Tuned) -> User sees answer.
 
 ---
