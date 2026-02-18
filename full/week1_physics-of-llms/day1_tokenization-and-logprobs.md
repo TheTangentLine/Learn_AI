@@ -1,4 +1,4 @@
-## Week 1, Day 1
+### Week 1, Day 1
 
 #### Topic: The Atom of AI - Tokenization & Logprobs
 

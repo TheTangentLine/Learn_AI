@@ -158,3 +158,7 @@ if __name__ == "__main__":
     print(f"Input: 'I hate you'")
     print(f"Result: {classify_strict('I hate you')}")    # Output: UNSAFE
 ```
+
+**Why this is Production-Grade:**
+
+You removed the need for regex parsing. The API literally cannot return anything else.
